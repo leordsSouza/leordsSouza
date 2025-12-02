@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Leonardo Rodrigues de Souza 👋</h1>
+<h1 align="center">Leonardo Rodrigues de Souza</h1>
 
 <p align="center">
 🎓 Estudante de Ciência da Computação na <strong>UENP</strong><br>
