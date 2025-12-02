@@ -23,8 +23,8 @@
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-mauve.vercel.app/api?username=leordsSouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-mauve.vercel.app/api/top-langs/?username=leordsSouza&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-mauve.vercel.app/api?username=leordsSouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_buster=final"/>
+  <img height="150em" src="https://github-readme-mauve.vercel.app/api/top-langs/?username=leordsSouza&layout=compact&theme=tokyonight&cache_buster=final"/>
 </div>
 
 ---
